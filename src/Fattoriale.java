@@ -1,7 +1,7 @@
 /**
  * 
  * @author Macrì Lorenzo
- * @version 2.0
+ * @version 3.0
  *
  */
 public class Fattoriale {
@@ -13,6 +13,13 @@ public class Fattoriale {
 	public Fattoriale() {
 
 	}
+	
+	/**
+	 * Metodo che calcola il fattoriale
+	 * 
+	 * @param n
+	 * @return
+	 */
 
 	public float fattoriale(int n) {
 		int fatt, i;
