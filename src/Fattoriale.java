@@ -1,5 +1,14 @@
-
+/**
+ * 
+ * @author Macrì Lorenzo
+ * @version 2.0
+ *
+ */
 public class Fattoriale {
+	
+	/**
+	 * Costruttore 
+	 */
 
 	public Fattoriale() {
 
